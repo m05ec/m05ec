@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Mo, and I am a Cyber Security Expert with over a decade of experience in computer networking and offensive security. Currently, I serve as a pen-tester for a team of offensive security experts, tasked with strengthening companies' security posture with the help of offensive security and venerability management. Here I have 2 types of projects, ones are the bash/python scripts that are gonna automate some tasks that a pentester does to save time. Others are useful softwares that I use on different assesments. 
-<!--
+My name is Mo, and I am a Cyber Security Expert with over a decade of experience in computer networking and offensive security. Currently, I serve as a pen-tester for a team of offensive security experts, tasked with strengthening companies' security posture with the help of offensive security and venerability management. Here I have mostly bash/python scripts that I wrote to use in my assesments. 
 **m05ec/m05ec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
